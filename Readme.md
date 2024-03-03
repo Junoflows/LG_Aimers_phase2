@@ -54,7 +54,7 @@
 
 <br/>
 
-### 상관계수
+#### 상관계수
 <img src="https://github.com/svng-zu/LG-AIMERS/assets/70852514/5d40481f-2a2b-4191-be82-bd957a022311" alt="data" width=50% height=50%>
 
 + 변수간의 상관성이 적음을 알 수 있음
